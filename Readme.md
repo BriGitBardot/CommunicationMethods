@@ -1,4 +1,4 @@
-This application was built with R's 'Shiny' package and plots the distribution of empirical methods used in communication science from 2000 to 2015. The results rely on an extensive content analysis of 32 scientific Journals. In sum, 6953 articles were coded.
+This application was built with R's 'Shiny' package and plots the distribution of empirical methods used in communication science from 2000 to 2015. The results rely on an extensive content analysis of 32 scientific journals. In sum, 6953 articles were coded.
 
 For more details on the project please confer [this publication](http://www.halem-verlag.de/2014/beobachtungsverfahren-in-der-kommunikationswissenschaft/).
 
